@@ -8,3 +8,7 @@ orange
 bananas
 apples
 plumbs
+oranges
+cotton
+ham
+meat
