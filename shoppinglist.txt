@@ -8,8 +8,8 @@ grapefruit
 orange 
 bananas
 apples
-plumbs
-oranges
-cotton
-ham
-meat
+
+
+potatis
+lök
+citroner
