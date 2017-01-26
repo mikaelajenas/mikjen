@@ -5,6 +5,9 @@ Egg
 Water
 bread
 grapefruit
+ekorre
+
+bananfluga
 orange 
 bananas
 apples
